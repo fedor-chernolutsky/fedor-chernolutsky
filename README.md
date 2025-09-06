@@ -1,3 +1,2 @@
 <!-- Оформление профиля -->
-
-<img src="https://premieracademyofdance.com/wp-content/uploads/2015/06/home-theater-decorating-movie-theater-border.jpg" width="50%">
+<img src="wp.jpg" width="50%">
